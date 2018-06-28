@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPW Interactie", "BPW Interactie.csproj", "{FCB21D83-8369-8CCB-CE85-99190863C699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPW Interactie.Plugins", "BPW Interactie.Plugins.csproj", "{CF6995AF-FCDD-3E7B-3186-6A5E7267E855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPW Interactie.Editor", "BPW Interactie.Editor.csproj", "{3BB5A8F4-1EAD-778E-EFE5-EC3F35AEC7A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPW Interactie.Editor.Plugins", "BPW Interactie.Editor.Plugins.csproj", "{62E27443-F6A8-0727-DB54-1B5009BD09A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB21D83-8369-8CCB-CE85-99190863C699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB21D83-8369-8CCB-CE85-99190863C699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB21D83-8369-8CCB-CE85-99190863C699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB21D83-8369-8CCB-CE85-99190863C699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF6995AF-FCDD-3E7B-3186-6A5E7267E855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF6995AF-FCDD-3E7B-3186-6A5E7267E855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF6995AF-FCDD-3E7B-3186-6A5E7267E855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF6995AF-FCDD-3E7B-3186-6A5E7267E855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB5A8F4-1EAD-778E-EFE5-EC3F35AEC7A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB5A8F4-1EAD-778E-EFE5-EC3F35AEC7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB5A8F4-1EAD-778E-EFE5-EC3F35AEC7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB5A8F4-1EAD-778E-EFE5-EC3F35AEC7A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E27443-F6A8-0727-DB54-1B5009BD09A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E27443-F6A8-0727-DB54-1B5009BD09A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E27443-F6A8-0727-DB54-1B5009BD09A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E27443-F6A8-0727-DB54-1B5009BD09A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
